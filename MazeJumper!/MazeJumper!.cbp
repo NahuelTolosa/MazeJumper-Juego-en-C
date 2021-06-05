@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MazeJumper!" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MazeJumper!" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MazeJumper!" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="library/Admin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Admin.h" />
+		<Unit filename="library/Audio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Audio.h" />
+		<Unit filename="library/Game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Game.h" />
+		<Unit filename="library/Levels.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Levels.h" />
+		<Unit filename="library/LogIn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/LogIn.h" />
+		<Unit filename="library/Menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Menu.h" />
+		<Unit filename="library/Player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Player.h" />
+		<Unit filename="library/Positions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Positions.h" />
+		<Unit filename="library/TDAs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/TDAs.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

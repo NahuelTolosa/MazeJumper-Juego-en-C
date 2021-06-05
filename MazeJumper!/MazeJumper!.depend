@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1606153164 source:c:\users\tolos\desktop\mazejumper!\library\admin.c
+	"Admin.h"
+
+1606176918 c:\users\tolos\desktop\mazejumper!\library\admin.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"TDAs.h"
+
+1606178526 c:\users\tolos\desktop\mazejumper!\library\tdas.h
+	<stdio.h>
+	<stdlib.h>
+	"Positions.h"
+
+1606108258 c:\users\tolos\desktop\mazejumper!\library\positions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606107095 source:c:\users\tolos\desktop\mazejumper!\library\audio.c
+	"Audio.h"
+
+1606176920 c:\users\tolos\desktop\mazejumper!\library\audio.h
+	<windows.h>
+
+1606140347 source:c:\users\tolos\desktop\mazejumper!\library\levels.c
+	"Levels.h"
+
+1606178792 c:\users\tolos\desktop\mazejumper!\library\levels.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"Player.h"
+
+1606178111 c:\users\tolos\desktop\mazejumper!\library\player.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"Positions.h"
+	"TDAs.h"
+
+1606153025 source:c:\users\tolos\desktop\mazejumper!\library\menu.c
+	"Menu.h"
+
+1606177741 c:\users\tolos\desktop\mazejumper!\library\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"Player.h"
+
+1606115153 source:c:\users\tolos\desktop\mazejumper!\library\player.c
+	"Player.h"
+
+1606108258 source:c:\users\tolos\desktop\mazejumper!\library\positions.c
+	"Positions.h"
+
+1606178834 source:c:\users\tolos\desktop\mazejumper!\library\tdas.c
+	"TDAs.h"
+
+1606141602 source:c:\users\tolos\desktop\mazejumper!\library\game.c
+	"Game.h"
+
+1606177226 c:\users\tolos\desktop\mazejumper!\library\game.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"Audio.h"
+	"Levels.h"
+	"LogIn.h"
+	"Player.h"
+	"Positions.h"
+	"TDAs.h"
+	"Menu.h"
+
+1606177571 c:\users\tolos\desktop\mazejumper!\library\login.h
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"Player.h"
+
+1606177571 source:c:\users\tolos\desktop\mazejumper!\library\login.c
+	"LogIn.h"
+
+1606175955 source:c:\users\tolos\desktop\mazejumper!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"library/Game.h"
+
